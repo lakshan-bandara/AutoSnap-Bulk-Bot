@@ -30,8 +30,9 @@
 ---
 
 ## 🛠️ Built With
-- **Node.js**: [`pageres-cli`](https://github.com/sindresorhus/pageres-cli) for high-performance renders.
 - **Python**: Google Colab backend.
+- **Selenium**: [`google-colab-selenium`](https://github.com/mherrmann/google-colab-selenium) for stable cloud automation.
+- **Chromium**: High-performance rendering engine.
 - **Google Drive API**: For secure cloud storage.
 
 ---
